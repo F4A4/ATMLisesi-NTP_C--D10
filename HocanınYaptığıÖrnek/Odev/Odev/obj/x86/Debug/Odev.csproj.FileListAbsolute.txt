@@ -1,0 +1,13 @@
+C:\Users\ogr\Desktop\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\ogr\Desktop\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\ogr\Desktop\Odev\Odev\obj\x86\Debug\Odev.Form1.resources
+C:\Users\ogr\Desktop\Odev\Odev\obj\x86\Debug\Odev.Properties.Resources.resources
+C:\Users\ogr\Desktop\Odev\Odev\obj\x86\Debug\Odev.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\Odev\Odev\obj\x86\Debug\Odev.exe
+C:\Users\ogr\Desktop\Odev\Odev\obj\x86\Debug\Odev.pdb
+L:\2012-2013\Yapılan Çalışmalar\NTP - And11B\20121001\Odev\Odev\obj\x86\Debug\Odev.exe
+L:\2012-2013\Yapılan Çalışmalar\NTP - And11B\20121001\Odev\Odev\obj\x86\Debug\Odev.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Odev\Odev\obj\x86\Debug\Odev.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Odev\Odev\obj\x86\Debug\Odev.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Odev\Odev\obj\x86\Debug\Odev.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Odev\Odev\obj\x86\Debug\Odev.pdb

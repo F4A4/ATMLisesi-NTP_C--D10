@@ -1,0 +1,20 @@
+C:\Users\MO-04\Desktop\GununSorusu1\GununSorusu1\bin\Debug\GununSorusu1.exe
+C:\Users\MO-04\Desktop\GununSorusu1\GununSorusu1\bin\Debug\GununSorusu1.pdb
+C:\Users\MO-04\Desktop\GununSorusu1\GununSorusu1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.Form1.resources
+C:\Users\MO-04\Desktop\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.Properties.Resources.resources
+C:\Users\MO-04\Desktop\GununSorusu1\GununSorusu1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\GununSorusu1\GununSorusu1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.exe
+C:\Users\MO-04\Desktop\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\bin\Debug\GununSorusu1.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\bin\Debug\GununSorusu1.pdb
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.Form1.resources
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\GununSorusu1\GununSorusu1\obj\x86\Debug\GununSorusu1.csproj.GenerateResource.Cache

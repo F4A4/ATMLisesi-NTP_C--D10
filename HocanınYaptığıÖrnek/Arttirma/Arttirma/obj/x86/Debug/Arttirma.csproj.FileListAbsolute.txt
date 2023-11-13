@@ -1,0 +1,18 @@
+C:\Users\ogr\Desktop\Arttirma\Arttirma\bin\Debug\Arttirma.exe
+C:\Users\ogr\Desktop\Arttirma\Arttirma\bin\Debug\Arttirma.pdb
+C:\Users\ogr\Desktop\Arttirma\Arttirma\obj\x86\Debug\Arttirma.Form1.resources
+C:\Users\ogr\Desktop\Arttirma\Arttirma\obj\x86\Debug\Arttirma.Properties.Resources.resources
+C:\Users\ogr\Desktop\Arttirma\Arttirma\obj\x86\Debug\Arttirma.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\Arttirma\Arttirma\obj\x86\Debug\Arttirma.exe
+C:\Users\ogr\Desktop\Arttirma\Arttirma\obj\x86\Debug\Arttirma.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\obj\x86\Debug\Arttirma.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\obj\x86\Debug\Arttirma.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\obj\x86\Debug\Arttirma.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\obj\x86\Debug\Arttirma.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\bin\Debug\Arttirma.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\bin\Debug\Arttirma.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\obj\x86\Debug\Arttirma.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\obj\x86\Debug\Arttirma.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\HocanınYaptığıÖrnek\Arttirma\Arttirma\obj\x86\Debug\GenerateResource.write.1.tlog

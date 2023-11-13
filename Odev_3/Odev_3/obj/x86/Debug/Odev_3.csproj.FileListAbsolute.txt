@@ -1,0 +1,28 @@
+C:\Users\lenovo\Desktop\Odev_3\Odev_3\bin\Debug\Odev_3.exe
+C:\Users\lenovo\Desktop\Odev_3\Odev_3\bin\Debug\Odev_3.pdb
+C:\Users\lenovo\Desktop\Odev_3\Odev_3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Odev_3\Odev_3\obj\x86\Debug\Odev_3.Ortalama_Tablosu.resources
+C:\Users\lenovo\Desktop\Odev_3\Odev_3\obj\x86\Debug\Odev_3.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Odev_3\Odev_3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\Odev_3\Odev_3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\Odev_3\Odev_3\obj\x86\Debug\Odev_3.exe
+C:\Users\lenovo\Desktop\Odev_3\Odev_3\obj\x86\Debug\Odev_3.pdb
+K:\Odev_3\Odev_3\obj\x86\Debug\Odev_3.exe
+K:\Odev_3\Odev_3\obj\x86\Debug\Odev_3.pdb
+K:\Odev_3\Odev_3\bin\Debug\Odev_3.exe
+K:\Odev_3\Odev_3\bin\Debug\Odev_3.pdb
+K:\Odev_3\Odev_3\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Odev_3\Odev_3\obj\x86\Debug\Odev_3.Ortalama_Tablosu.resources
+K:\Odev_3\Odev_3\obj\x86\Debug\Odev_3.Properties.Resources.resources
+K:\Odev_3\Odev_3\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Odev_3\Odev_3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Odev_3\Odev_3\obj\x86\Debug\Odev_3.exe
+E:\Odev_3\Odev_3\obj\x86\Debug\Odev_3.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\Odev_3\Odev_3\obj\x86\Debug\Odev_3.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.Ders\Odev_3\Odev_3\obj\x86\Debug\Odev_3.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.GÜN\Odev_3\Odev_3\obj\x86\Debug\Odev_3.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\6.GÜN\Odev_3\Odev_3\obj\x86\Debug\Odev_3.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\10.GÜN\Odev_3\Odev_3\obj\x86\Debug\Odev_3.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\10.GÜN\Odev_3\Odev_3\obj\x86\Debug\Odev_3.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\Odev_3\Odev_3\obj\x86\Debug\Odev_3.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\10.GÜN\Odev_3\Odev_3\obj\x86\Debug\Odev_3.pdb
